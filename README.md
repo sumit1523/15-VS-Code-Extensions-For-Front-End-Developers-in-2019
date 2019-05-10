@@ -1,11 +1,11 @@
 # 15-VS-Code-Extensions-For-Front-End-Developers-in-2019
 
 
-1.Live Server
-2.Live SAAS Compiler 
-3.HTML CSS Support
-4.Auto rename Tag/ Auto close Tag
-5.Pritieer- code formatter
+*1.Live Server
+*2.Live SAAS Compiler 
+*3.HTML CSS Support
+*4.Auto rename Tag/ Auto close Tag
+*5.Pritieer- code formatter
 6.JavaScript (ES6) code snippets
 7.Turbo console Log
 8.ident-rainbow
